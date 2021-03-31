@@ -3,9 +3,8 @@
 ## Requirements
 ### Environment
 - `Linux, Windows, Mac Os`
-- 
 ### Java version
-To run the API requires Java version 11
+To run api requires Java version 11
 
 ## Building
 ### Backend
